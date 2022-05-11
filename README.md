@@ -24,6 +24,12 @@ edu-user-service - http://localhost:3000
 
 (Update the client-secret of the edu-user-service in "edu-user-service\.env")
 
+Create groups as below
+1. admin
+2. student
+3. teacher
+
+Create a client scope called 'edu-user-management'
 
 4. Run the frontend and backend using the corresponding commands,
 
